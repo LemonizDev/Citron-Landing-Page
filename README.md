@@ -1,3 +1,3 @@
 # Citron-Landing-Page
 
-https://citronbot.live
+https://www.citronbot.live
